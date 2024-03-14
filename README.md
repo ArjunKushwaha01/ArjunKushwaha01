@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunkushwaha01" alt="arjunkushwaha01" /></a> </p>
 
-- 🌱 I’m currently learning **java with DSA**
+- 🌱 I’m currently learning **Swing,Hibernate,Google web kit**
 
 - 💬 Ask me about **c++,python,java**
 
