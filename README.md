@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Swing,Hibernate,Google web kit**
 
-- 💬 Ask me about **c++,python,java**
+- 💬 Ask me about **c++,python,java,kotlin,flutter,dart**
 
 - 📫 How to reach me **kushwahaarjun920@gmai.com**
 
