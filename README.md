@@ -22,7 +22,7 @@ I actively build and document **real-world Blue Team labs** to simulate how prof
 ---
 
 ### 🛡️ What I Work On
-- **SIEM deployment and detection engineering (Wazuh)**
+- **SIEM deployment and detection engineering (Wazuh),(Splunk)**
 - **Windows endpoint monitoring & File Integrity Monitoring (FIM)**
 - **Threat detection & SOC alert investigation**
 - **MITRE ATT&CK mapping**
